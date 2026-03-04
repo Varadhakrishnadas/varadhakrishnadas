@@ -50,5 +50,5 @@ A data analytics project built using Python to analyze YouTube trends, engagemen
 
 ## 📫 Contact
 
-LinkedIn: https://www.linkedin.com/in/varadha-k
-Email: varadhakrishnadas@gmail.com
+- LinkedIn: https://www.linkedin.com/in/varadha-k
+- Email: varadhakrishnadas@gmail.com
