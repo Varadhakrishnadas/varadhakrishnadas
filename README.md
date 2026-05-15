@@ -1,6 +1,6 @@
 # Hi, I'm Varadha 👋
 
-🎓 MCA Postgraduate Student  
+🎓 MCA Postgraduate  
 💻 Python Developer | Data Analysis Enthusiast  
 📊 Interested in Machine Learning, AI & Fair Systems  
 
